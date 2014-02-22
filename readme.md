@@ -5,6 +5,10 @@
 
 Parse google doc spreadshit with node.js. Output in JSON, XML or PHP data's from google doc.
 
+Can parse public or private spreadsheet.
+
+For private spreadsheet, authentification (google account) required from user who can access to the document. 
+
 ## Getting Started ##
 
 Node.js is require
