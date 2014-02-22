@@ -1,0 +1,14 @@
+{
+  "name": "gdoc_js",
+  "version": "0.0.0",
+  "description": "Get google spreedsheet with nodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sylvain Savajols",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "request": "~2.33.0"
+  }
+}
