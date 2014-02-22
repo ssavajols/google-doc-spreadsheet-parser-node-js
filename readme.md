@@ -9,6 +9,14 @@ Can parse public or private spreadsheet.
 
 For private spreadsheet, authentification (google account) required from user who can access to the document. 
 
+
+----------
+
+**JAVASCRIPT Native and COFFEE SCRIPT version are available.**
+
+----------
+
+
 ## Getting Started ##
 
 Node.js is require
