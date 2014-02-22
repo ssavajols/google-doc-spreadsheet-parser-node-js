@@ -12,7 +12,7 @@ For private spreadsheet, authentification (google account) required from user wh
 
 ----------
 
-**JAVASCRIPT Native and COFFEE SCRIPT version are available.**
+**JAVASCRIPT Native and COFFEE SCRIPT versions are available.**
 
 ----------
 
